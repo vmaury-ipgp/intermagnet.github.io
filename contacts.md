@@ -4,7 +4,7 @@ title: Contacts
 
 # Contacts and Addresses
 ## Executive Council
-The Executive Council establishes [policy for INTERMAGNET](/_includes/index/principles.html), deals with questions of international participation and data exchange and communicates with national agencies and international scientific and funding agencies. It is assisted and advised by [the Operations Committee](#operations-committee).
+The Executive Council establishes [policy for INTERMAGNET](_includes/index/principles.html), deals with questions of international participation and data exchange and communicates with national agencies and international scientific and funding agencies. It is assisted and advised by [the Operations Committee](#operations-committee).
 
 ## Membership
 [Alan Thomson](/members/AlanThomson.md) (United Kingdom), **Chairman**  
